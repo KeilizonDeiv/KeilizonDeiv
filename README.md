@@ -4,7 +4,7 @@
 <div align="center">Aspiring software developer passionate about making innovative solutions.</div>
 
 ---
-
+soon to grad
 - 🎓 Currently pursuing a Bachelor’s degree in Information Technology at [PHINMA University of Pangasinan](https://www.facebook.com/phinmaupang)
 - 📫 How to reach me [kede,leones.up@phinmaed.com](kede,leones.up@phinmaed.com)
 - 🌱 I’m currently learning C# for GameDev and Flutter(Dart) MobileDev and AI Integration
