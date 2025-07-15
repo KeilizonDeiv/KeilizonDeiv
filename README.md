@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Keilizon-Deiv  
 <div align="center">Aspiring software developer passionate about making innovative solutions.</div>
 
----
+--- 
 
 - 🎓 Currently pursuing a Bachelor’s degree in Information Technology at [PHINMA University of Pangasinan](https://www.facebook.com/phinmaupang)
 - 📫 How to reach me [kede,leones.up@phinmaed.com](kede,leones.up@phinmaed.com)
