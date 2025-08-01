@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KeilizonDeiv&label=Profile%20views&color=0e75b6&style=flat" alt="KeilizonDeiv" /> </p>
 
 # 👋 Hi, I’m Keilizon-Deiv  
-<div align="center">Aspiring software developer</div>
+<div align="center">Software developer</div>
 
 --- 
 
